@@ -1,3 +1,3 @@
-# CMakeProject
+# DataHistory
 
-CMake project including interfaces, libraries, executables, unit tests, documentation, installation and package.
+Data history tracker library for code analysis.
